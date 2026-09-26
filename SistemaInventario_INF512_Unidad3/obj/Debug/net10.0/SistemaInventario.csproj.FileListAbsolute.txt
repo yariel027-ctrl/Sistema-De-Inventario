@@ -1,0 +1,14 @@
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\bin\Debug\net10.0\SistemaInventario.exe
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\bin\Debug\net10.0\SistemaInventario.deps.json
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\bin\Debug\net10.0\SistemaInventario.runtimeconfig.json
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\bin\Debug\net10.0\SistemaInventario.dll
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\bin\Debug\net10.0\SistemaInventario.pdb
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.AssemblyInfoInputs.cache
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.AssemblyInfo.cs
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.csproj.CoreCompileInputs.cache
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.dll
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\refint\SistemaInventario.dll
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.pdb
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\SistemaInventario.genruntimeconfig.cache
+C:\Users\ctdpa\Desktop\SistemaInventario_INF512_Unidad3\obj\Debug\net10.0\ref\SistemaInventario.dll
