@@ -1,5 +1,10 @@
 # Sistema de Gestión de Inventario - INF-512 Unidad 3
 
+
+## Integrantes
+Ewris Yariel Calderon Diaz,
+Rey Sebastian Matos
+
 ## Descripción
 Aplicación de consola desarrollada en C# para administrar productos, categorías e inventario de una empresa.
 
@@ -37,11 +42,6 @@ Desde la carpeta del proyecto:
 dotnet restore
 dotnet run
 ```
-
-## Integrantes
-Ewris Yariel Calderon Diaz,
-Rey Sebastian Matos
-
 
 ## UML
 El diagrama UML debe representar exactamente las clases y relaciones de la versión entregada.
